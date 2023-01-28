@@ -42,10 +42,10 @@ Talk to me about
 
 <hr>
 
-![Activity](https://activity-graph.herokuapp.com/graph?username=ankitojha07&theme=xcode)
+![Activity](https://activity-graph.herokuapp.com/graph?username=Abhi123pal&theme=xcode)
 
-|<img src="https://github-readme-stats.vercel.app/api?username=ankitojha07&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitojha07"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=Abhi123pal&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitojha07"/>|
 |---|---|
 
 ### Show some ❤️ by staring some of the repositories!
-⭐️ From [Ankit](https://github.com/Abhi123pal) 
+⭐️ From [Abhinav](https://github.com/Abhi123pal) 
